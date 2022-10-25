@@ -59,7 +59,3 @@ typings/
 .env
 
 .DS_Store
-/es
-/cjs
-/style
-/dist
